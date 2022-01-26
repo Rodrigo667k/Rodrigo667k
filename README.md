@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá!! Eu sou Rodrigo Viana👋
 
-<!--
-**Rodrigo667k/Rodrigo667k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏙️ Estudante de Programação Full-Stack
+- 🤖 Amor a Tecnologia
+- 🌎 "A tecnologia move o mundo." Steve Jobs
 
-Here are some ideas to get you started:
+</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/95310379/151089463-371a45e9-49e0-4e76-90fd-72b889422b06.gif)
+
+
+</span>
+
+
+        
+        
+        
+        
+        
+
+
